@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(92, 204, 47);
+    text-align: center;
+
+}
+h3{
+    background-color: rgb(92, 204, 47);
+}
+p{ 
+    background-color: beige;
+}
+ul{
+    background-color: beige;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: rgb(54, 51, 51);
+}
+h2{
+    background-color: rgb(92, 204, 47);
+}
